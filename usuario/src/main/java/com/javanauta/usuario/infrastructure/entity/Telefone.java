@@ -1,3 +1,5 @@
+package com.javanauta.usuario.infrastructure.entity;
+
 import jakarta.persistence.*;
 import lombok.*;
 
