@@ -1,4 +1,5 @@
-import com.javanauta.usuario.infrastructure.entity.Endereco;
+package com.javanauta.usuario.infrastructure.entity;
+
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
